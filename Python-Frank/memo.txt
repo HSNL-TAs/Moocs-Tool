@@ -1,0 +1,4 @@
+記得修改 mail.py裡面的參數
+totalGrade = 'test.csv'            ////改成自己負責的部份的csv檔案名稱
+myMailAddress = 'hahaha@gmail.com' ///自己的信箱
+myMailPassword = 'ilikehaha'       ////自己的密碼
